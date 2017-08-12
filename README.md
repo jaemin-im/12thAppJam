@@ -4,6 +4,8 @@
 
 ## Project Member Information
 
+PM : 임재민
+
 기획자 : 김수현
 
 디자이너 : 윤석민
